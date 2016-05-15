@@ -1,7 +1,0 @@
-{
-    "BOT": "Hi there!\nI’m the personal bot of Yannis, a Master Student from Greece.\n![Yannis]\n
-    "HELLO": "Hey, I'm so glad you set Yannis-Bot up! Do you want to tell Yannis that you're talking to her bot? %[Tell her](postback:twitter)",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
-    "CONNECT ME": "Wait",
-    "DISCONNECT": "Roger that, YannisBot is back."
-}
